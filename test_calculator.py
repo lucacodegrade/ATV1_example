@@ -24,5 +24,5 @@ def test_divide():
     with pytest.raises(ValueError):
         calculator.divide(10, 0)
 
-def dummy_test():
+def test_dummy():
     assert True
