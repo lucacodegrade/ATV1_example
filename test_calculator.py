@@ -25,4 +25,4 @@ def test_divide():
         calculator.divide(10, 0)
 
 def test_dummy():
-    assert True
+    assert False
